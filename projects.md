@@ -8,7 +8,6 @@ subtitle: What's been eating away my free time
 - [Fortune Teller](#fortuneteller)
 - [Random Food](#randomfood)
 - [Wire Connect Game](#wireconnectgame)
-<br>
 
 -----
 
