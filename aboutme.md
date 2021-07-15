@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: 💜 About me 💜
 subtitle: CamNguyen, 2004, Vietnam 
 ---
 
