@@ -9,7 +9,9 @@ subtitle: What's been eating away my free time
 - [Random Food](#randomfood)
 - [Wire Connect Game](#wireconnectgame)
 <br>
-_________________
+
+----
+
 ## [Online Birthday Cakes](https://camnguyenmeow.github.io/birthdaycake/) <a name="bdaycakes"></a> 
 - **My little gift for those of you who have a birthday during this pandemic, or who forgot to buy a birthday cake.**
 - **Enter your age and choose your birthday cake. I will light candles. Make a wish then blow out the candles.**
@@ -19,7 +21,9 @@ _________________
 <br>
 ![image](https://user-images.githubusercontent.com/73975520/125739443-5d7e5e50-42d8-46f9-bc1c-582872de493f.png)
 <br>
-_________________
+
+----
+
 ## [Fortune Teller](https://camnguyenmeow.github.io/fortune-teller) <a name="fortuneteller"></a> 
 - **Just enter the name and date of birth of you and your crush, then I will tell you how compatible you are with that person.**
 <br>
@@ -27,7 +31,9 @@ _________________
    - **_Source code:_** [https://github.com/camnguyenmeow/fortune-teller](https://github.com/camnguyenmeow/fortune-teller) <br>
 ![image](https://user-images.githubusercontent.com/73975520/125740852-2a25d1b6-4874-43e1-a217-507d280301a8.png)
 <br>
-_________________
+
+----
+
 ## [Random Food](https://camnguyenmeow.github.io/random-food) <a name="randomfood"></a> 
 - **If you don't know what to eat today, visit this website.**
 <br>
@@ -35,7 +41,9 @@ _________________
    - **_Source code:_** [https://github.com/camnguyenmeow/random-food](https://github.com/camnguyenmeow/random-food) <br>
 ![image](https://user-images.githubusercontent.com/73975520/125744493-2810ce0b-a759-4045-9f65-667ea19f85df.png)
 <br>
-_________________
+
+----
+
 ## [Wire Connect Game](https://camnguyenmeow.github.io/connectwire/) <a name="wireconnectgame"></a> 
 - **This is a puzzle game. rotate wire to connect START to END. This website has the function of storing the names and times of players so that we can determine the fastest solver**<br>
 <br>
