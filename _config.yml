@@ -14,8 +14,9 @@ author: Cam Nguyen
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "https://camnguyenmeow.github.io"
+  Home: "index.html"
   About Me: "aboutme"
+  Projects: "projects"
 
 # --- Logo --- #
 
