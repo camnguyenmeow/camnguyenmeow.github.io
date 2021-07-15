@@ -16,11 +16,6 @@ author: Cam Nguyen
 navbar-links:
   Home: "https://camnguyenmeow.github.io"
   About Me: "aboutme"
-  Posts: "posts"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
