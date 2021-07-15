@@ -9,7 +9,18 @@ subtitle: What's been eating away my free time
 - [Random Food](#randomfood)
 - [Wire Connect Game](#wireconnectgame)
 
-# [Online Birthday Cakes](https://camnguyenmeow.github.io/birthdaycake/) <a name="bdaycakes"></a>
-<img src="https://user-images.githubusercontent.com/73975520/125739443-5d7e5e50-42d8-46f9-bc1c-582872de493f.png" />
+
+# [Online Birthday Cakes](https://camnguyenmeow.github.io/birthdaycake/) <a name="bdaycakes">
+  Source code: 
+</a>
+- **My little gift for those of you who have a birthday during this pandemic, or who forgot to buy a birthday cake.**
+- **Enter your age and choose your birthday cake. I will light candles. Make a wish then blow out the candles.**
+![image](https://user-images.githubusercontent.com/73975520/125739443-5d7e5e50-42d8-46f9-bc1c-582872de493f.png)
+
+# [Fortune Teller](https://camnguyenmeow.github.io/fortune-teller) <a name="fortuneteller"></a>
+**Enter 
+![image](https://user-images.githubusercontent.com/73975520/125740852-2a25d1b6-4874-43e1-a217-507d280301a8.png)
+
+
 
 
