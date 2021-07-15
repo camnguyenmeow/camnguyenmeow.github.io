@@ -4,7 +4,7 @@ title: Projects
 subtitle: What's been eating away my free time
 ---
  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-# A collection of my projects 
+# 💗 A collection of my projects 💗 
 - [Online Birthday Cakes](#bdaycakes)
 - [Fortune Teller](#fortuneteller)
 - [Random Food](#randomfood)
