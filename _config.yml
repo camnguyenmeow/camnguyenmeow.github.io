@@ -14,7 +14,9 @@ author: Cam Nguyen
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Home: "https://camnguyenmeow.github.io"
   About Me: "aboutme"
+  Posts: "posts"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
