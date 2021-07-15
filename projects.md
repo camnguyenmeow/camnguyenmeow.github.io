@@ -12,7 +12,7 @@ subtitle: What's been eating away my free time
 
 ----
 
-## [Online Birthday Cakes](https://camnguyenmeow.github.io/birthdaycake/) <a name="bdaycakes"></a> 
+## <a name="bdaycakes"></a> [Online Birthday Cakes](https://camnguyenmeow.github.io/birthdaycake/) 
 - **My little gift for those of you who have a birthday during this pandemic, or who forgot to buy a birthday cake.**
 - **Enter your age and choose your birthday cake. I will light candles. Make a wish then blow out the candles.**
 <br>
@@ -24,7 +24,7 @@ subtitle: What's been eating away my free time
 
 ----
 
-## [Fortune Teller](https://camnguyenmeow.github.io/fortune-teller) <a name="fortuneteller"></a> 
+## <a name="fortuneteller"></a> [Fortune Teller](https://camnguyenmeow.github.io/fortune-teller) 
 - **Just enter the name and date of birth of you and your crush, then I will tell you how compatible you are with that person.**
 <br>
    - **_Website:_** [https://camnguyenmeow.github.io/fortune-teller](https://camnguyenmeow.github.io/fortune-teller)
@@ -34,7 +34,7 @@ subtitle: What's been eating away my free time
 
 ----
 
-## [Random Food](https://camnguyenmeow.github.io/random-food) <a name="randomfood"></a> 
+## <a name="randomfood"></a> [Random Food](https://camnguyenmeow.github.io/random-food) 
 - **If you don't know what to eat today, visit this website.**
 <br>
    - **_Website:_** [https://camnguyenmeow.github.io/random-food](https://camnguyenmeow.github.io/random-food)
@@ -44,8 +44,8 @@ subtitle: What's been eating away my free time
 
 ----
 
-## [Wire Connect Game](https://camnguyenmeow.github.io/connectwire/) <a name="wireconnectgame"></a> 
-- **This is a puzzle game. rotate wire to connect START to END. This website has the function of storing the names and times of players so that we can determine the fastest solver**<br>
+## <a name="wireconnectgame"></a> [Wire Connect Game](https://camnguyenmeow.github.io/connectwire/) 
+- **This is a puzzle game. rotate wire to connect START to END. This website has the function of storing the names and times of players so that we can determine the fastest solver**
 <br>
    - **_Website:_** [https://camnguyenmeow.github.io/connectwire](https://camnguyenmeow.github.io/connectwire/)
    - **_Source code:_** [https://camnguyenmeow.github.io/connectwire/](https://camnguyenmeow.github.io/connectwire/) 
