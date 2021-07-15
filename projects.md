@@ -27,6 +27,7 @@ subtitle: What's been eating away my free time 😶
 ![image](https://user-images.githubusercontent.com/73975520/125739443-5d7e5e50-42d8-46f9-bc1c-582872de493f.png)
 <hr>
 ## <a name="fortuneteller"></a> [💚 Fortune Teller](https://camnguyenmeow.github.io/fortune-teller) 
+- **Tried several fortune telling sites on the net, but the results were not what I expected. I code this website so that me and Dasha Taran are 100% compatible 🥰 **
 - **Just enter the name and date of birth of you and your crush, then I will tell you how compatible you are with that person.**
 <br>
    - **_Website:_** [https://git.io/JCUoA](https://camnguyenmeow.github.io/fortune-teller)
