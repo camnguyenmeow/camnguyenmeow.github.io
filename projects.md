@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 💝 Projects 💝
+title: Projects
 subtitle: What's been eating away my free time 😶
 ---
  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
