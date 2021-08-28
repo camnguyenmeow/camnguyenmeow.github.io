@@ -19,7 +19,7 @@ subtitle: What's been eating away my free time 😶
 </style>
 <hr>
 ## <a name="playmay"></a> [😽 Play Mây](https://camnguyenmeow.github.io/playmay) 
-Since I can't hit Mây, I created this website to hit it online !!!
+- Since I can't hit Mây, I created this website to hit it online !!!
 <br>
    - **_Website:_** [https://git.io/JEzbV](https://camnguyenmeow.github.io/playmay)
    - **_Source code:_** [https://git.io/JEV89](https://github.com/camnguyenmeow/playmay) 
@@ -33,7 +33,7 @@ Since I can't hit Mây, I created this website to hit it online !!!
    - **_Website:_** [https://git.io/JWO7m](https://camnguyenmeow.github.io/birthdaycake)
    - **_Source code:_** [https://git.io/JWZJY](https://github.com/camnguyenmeow/birthdaycake) 
 <br>
-![image](https://user-images.githubusercontent.com/73975520/125739443-5d7e5e50-42d8-46f9-bc1c-582872de493f.png)
+![image](https://user-images.githubusercontent.com/73975520/131213996-d9574804-282f-4554-86f2-090b8d14d942.png)
 <hr>
 ## <a name="fortuneteller"></a> [💚 Fortune Teller](https://camnguyenmeow.github.io/fortune-teller) 
 - Tried several fortune telling sites on the net, but the results were not what I expected. I code this website so that me and Dasha Taran are 100% compatible 🥰
