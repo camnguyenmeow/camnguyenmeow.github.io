@@ -5,6 +5,7 @@ subtitle: What's been eating away my free time 😶
 ---
  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 # 💗 A collection of my projects 💗 
+- [Play Mây](#playmay)
 - [Online Birthday Cakes](#bdaycakes)
 - [Fortune Teller](#fortuneteller)
 - [Random Food](#randomfood)
@@ -16,6 +17,14 @@ subtitle: What's been eating away my free time 😶
         border: none;
     }
 </style>
+<hr>
+## <a name="playmay"></a> [😽 Play Mây](https://camnguyenmeow.github.io/playmay) 
+Since I can't hit Mây, I created this website to hit it online !!!
+<br>
+   - **_Website:_** [https://git.io/JEzbV](https://camnguyenmeow.github.io/playmay)
+   - **_Source code:_** [https://git.io/JEV89](https://github.com/camnguyenmeow/playmay) 
+<br>
+![image](https://user-images.githubusercontent.com/73975520/131213842-8281bad9-0c01-4424-89ac-8701c69f5249.png)
 <hr>
 ## <a name="bdaycakes"></a> [💛 Online Birthday Cakes](https://camnguyenmeow.github.io/birthdaycake/) 
 - My little gift for those of you who have a birthday during this pandemic, or who forgot to buy a birthday cake.
